@@ -8,7 +8,7 @@ Topology-Scanner是WeOps团队免费开放的一个网络拓扑自动扫描模�
 ## 使用方式
 
 ```
-java -jar ./topology-scanner.jar --config-path=./config/
+java -jar ./topology-scanner.jar --config_path=./config/
 ```
 
 ## 拓扑发现算法
