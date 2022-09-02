@@ -32,7 +32,7 @@ LLDP 算法是根据 LLDP 表来确定网络设备的链路。算法原理如下
 
 ## 配置说明
 
-### 拓扑发现请求参数文件(request.json)
+### 拓扑发现请求参数文件(application.yml)
 
 #### ips
 
