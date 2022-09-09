@@ -5,7 +5,13 @@
 
 Topology-Scanner是WeOps团队免费开放的一个网络拓扑自动扫描模块，可以自动发现网络设备的类型、网络设备之间的互联关系
 
-### 更多资料/工具包下载可见“蓝鲸 S-mart市场”：https://bk.tencent.com/s-mart/application/282/detail
+#### 更多资料/工具包下载可见“蓝鲸 S-mart市场”
+https://bk.tencent.com/s-mart/application/282/detail
+
+#### 更多问题欢迎添加“小嘉”微信，加入官方沟通群
+
+<img src="https://wedoc.canway.net/imgs/img/小嘉.jpg" width="30%" height="30%">
+
 
 ## 使用方式
 
